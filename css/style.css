@@ -189,9 +189,7 @@ footer p {
     h1 {
         font-size: 2.5rem;
     }
-    .hero-para {
-        max-width: 50%;
-    }
+   
     .blogs-section {
         gap: 1.5em;
         padding: 4.2em;
@@ -202,12 +200,29 @@ footer p {
         padding: 4.2em;
     }
     .back-button, .full-hero-blog-title,
-    .full-hero-section,.blogs,.about-me{
+    .full-hero-section,.blogs,.about-me-section, .posts-section{
         background-color: #FAFAFA;
     }
     .full-hero-article{
         padding: 0em 4em;
     }
-   
+    .full-hero-intro {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 4em;
+    }   
+    .about-me-image{
+        width: 25%;
+    }
+    .about-me-section{
+        padding: 5em 4.2em 1.5em 4.2em;
+    }
+    .about-me-article{
+        padding: 3em 5.7em 0em 5.7em;
+    }
+    .posts-section .blogs-section {
+        padding: 2.2em 4.2em 4.2em 4.2em;
+    }
 }
 
