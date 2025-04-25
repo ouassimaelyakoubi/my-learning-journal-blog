@@ -193,7 +193,8 @@ footer p {
     .blogs-section {
         gap: 1.5em;
         padding: 4.2em;
-        grid-template-columns: repeat(3, 1fr);    
+        grid-template-columns: repeat(3, 1fr);  
+        align-items: start;  
     }
    
     .full-hero-section {
