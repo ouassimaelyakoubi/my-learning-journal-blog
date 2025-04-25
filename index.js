@@ -1,4 +1,4 @@
-import {articles} from '/data.js'
+import {articles} from './data.js'
 const articleContainer = document.getElementById("blog");
 let articlesToShow = 3;
 const viewMoreBtn = document.getElementById("view-more");
