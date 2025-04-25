@@ -3,8 +3,8 @@ export const articles = [
         image: "/images/blog1.png",
         date: "April 10, 2025",
         title: "Finding My Focus in Frontend",
-        preview: `When I first began my frontend learning journey, I struggled a lot with staying consistent. I'd start courses, get distracted, and stop halfway. But discovering Scrimba was a game-changer. The interactive format made learning feel less like a chore and more like a creative adventure.`,
-      }
+        preview: `I used to struggle with consistency in learning frontend, but Scrimba changed that. Its interactive style made coding fun and kept me motivated.`,
+    }
       ,
       {
         image: "/images/blog2.png",
