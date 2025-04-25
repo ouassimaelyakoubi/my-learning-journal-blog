@@ -1,6 +1,6 @@
 export const articles = [
     {
-        image:"../images/blog1.png",
+        image:"images/blog1.png",
         date:"FEBRUARY 22, 2025",
         title:"Blog one",
         preview:`I'm excited to start a new learning journey as a Scrimba Bootcamp student! After several months of 
